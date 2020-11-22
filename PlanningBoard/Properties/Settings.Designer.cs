@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ResearchTracker.Properties
+namespace PlanningBoard.Properties
 {
 
 
